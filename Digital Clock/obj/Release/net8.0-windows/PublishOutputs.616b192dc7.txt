@@ -1,0 +1,5 @@
+D:\Rivison\Digital Clock\bin\Release\net8.0-windows\app.publish\Digital Clock.exe
+D:\Rivison\Digital Clock\bin\Release\net8.0-windows\app.publish\Digital Clock.dll
+D:\Rivison\Digital Clock\bin\Release\net8.0-windows\app.publish\Digital Clock.deps.json
+D:\Rivison\Digital Clock\bin\Release\net8.0-windows\app.publish\Digital Clock.runtimeconfig.json
+D:\Rivison\Digital Clock\bin\Release\net8.0-windows\app.publish\Digital Clock.pdb

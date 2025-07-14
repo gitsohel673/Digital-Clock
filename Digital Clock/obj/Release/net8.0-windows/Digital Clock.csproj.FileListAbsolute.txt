@@ -1,0 +1,20 @@
+D:\Rivison\Digital Clock\bin\Release\net8.0-windows\Digital Clock.exe
+D:\Rivison\Digital Clock\bin\Release\net8.0-windows\Digital Clock.deps.json
+D:\Rivison\Digital Clock\bin\Release\net8.0-windows\Digital Clock.runtimeconfig.json
+D:\Rivison\Digital Clock\bin\Release\net8.0-windows\Digital Clock.dll
+D:\Rivison\Digital Clock\bin\Release\net8.0-windows\Digital Clock.pdb
+D:\Rivison\Digital Clock\obj\Release\net8.0-windows\Digital_Clock.Form1.resources
+D:\Rivison\Digital Clock\obj\Release\net8.0-windows\Digital Clock.csproj.GenerateResource.cache
+D:\Rivison\Digital Clock\obj\Release\net8.0-windows\Digital Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rivison\Digital Clock\obj\Release\net8.0-windows\Digital Clock.AssemblyInfoInputs.cache
+D:\Rivison\Digital Clock\obj\Release\net8.0-windows\Digital Clock.AssemblyInfo.cs
+D:\Rivison\Digital Clock\obj\Release\net8.0-windows\Digital Clock.csproj.CoreCompileInputs.cache
+D:\Rivison\Digital Clock\obj\Release\net8.0-windows\Digital Clock.dll
+D:\Rivison\Digital Clock\obj\Release\net8.0-windows\refint\Digital Clock.dll
+D:\Rivison\Digital Clock\obj\Release\net8.0-windows\Digital Clock.pdb
+D:\Rivison\Digital Clock\obj\Release\net8.0-windows\Digital Clock.genruntimeconfig.cache
+D:\Rivison\Digital Clock\obj\Release\net8.0-windows\ref\Digital Clock.dll
+D:\Rivison\Digital Clock\bin\Release\net8.0-windows\Digital Clock.dll.manifest
+D:\Rivison\Digital Clock\bin\Release\net8.0-windows\Digital Clock.application
+D:\Rivison\Digital Clock\obj\Release\net8.0-windows\Digital Clock.dll.manifest
+D:\Rivison\Digital Clock\obj\Release\net8.0-windows\Digital Clock.application
